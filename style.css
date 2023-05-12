@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(73, 171, 171);
+}
+.Heading {
+  text-align: center;
+  height: 70px;
+  width: 100%;
+  border: 2px solid #fff;
+  border-radius: 10px;
+  background-color: rgb(17, 70, 70);
+  color: red;
+  margin-top: 50px;
+}
+.first {
+  text-align: center;
+  margin-top: 20px;
+}
+.second {
+  text-align: center;
+  margin-top: 20px;
+}
+.third {
+  text-align: center;
+  margin-top: 20px;
+}
+.box1 {
+  margin-top: 50px;
+  height: 200px;
+  width: 350px;
+  border: 3px solid black;
+  margin-left: 590px;
+  border-radius: 10px;
+  background-color: rgb(37, 81, 81);
+}
+.card {
+  background-color: rgb(16, 77, 77);
+  color: #ffffff;
+  border: 5px solid black;
+  border-radius: 20px;
+}
+.mb-1 {
+  color: rgb(200, 65, 65);
+}
+.mb-2 {
+  color: rgb(57, 187, 57);
+}
